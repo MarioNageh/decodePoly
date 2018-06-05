@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "609401299125",
+    "firebase_url": "https://uberapp-a952d.firebaseio.com",
+    "project_id": "uberapp-a952d",
+    "storage_bucket": "uberapp-a952d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609401299125:android:f4110c8fe5621b8a",
+        "android_client_info": {
+          "package_name": "taxidriver.nageh.mario.uber2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609401299125-9j8nd7vtt30ii6drb2lpdo5egej40tvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "taxidriver.nageh.mario.uber2018",
+            "certificate_hash": "5d4684671528bb2a0dafb1e1f7149b8bfaba51e0"
+          }
+        },
+        {
+          "client_id": "609401299125-m6a2qetondhoe4g471udkdmjquhrgnth.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "609401299125-m6a2qetondhoe4g471udkdmjquhrgnth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqY2-O_7YcQFE2dcJpe6hLue7HEplb7JA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609401299125-m6a2qetondhoe4g471udkdmjquhrgnth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609401299125:android:9ef5fd0f872d6e74",
+        "android_client_info": {
+          "package_name": "taxidriver.nageh.mario.uberdriverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609401299125-c6thlmhaeb9o5uijbvs50jihc6eocc2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "taxidriver.nageh.mario.uberdriverapp",
+            "certificate_hash": "5d4684671528bb2a0dafb1e1f7149b8bfaba51e0"
+          }
+        },
+        {
+          "client_id": "609401299125-m6a2qetondhoe4g471udkdmjquhrgnth.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "609401299125-m6a2qetondhoe4g471udkdmjquhrgnth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqY2-O_7YcQFE2dcJpe6hLue7HEplb7JA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609401299125-m6a2qetondhoe4g471udkdmjquhrgnth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
